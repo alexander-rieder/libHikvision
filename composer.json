@@ -1,5 +1,5 @@
 {
-    "name": "davehope/libHikvision",
+    "name": "davehope/lib-hikvision",
     "description": "PHP Class for working with Hikvision datadir",
     "authors": [
         {
