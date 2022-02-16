@@ -1,0 +1,19 @@
+{
+    "name": "davehope/libHikvision",
+    "description": "PHP Class for working with Hikvision datadir",
+    "authors": [
+        {
+            "name": "davehope",
+            "email": "your@name.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.3.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "hikvision": ""
+        }
+    }
+}
